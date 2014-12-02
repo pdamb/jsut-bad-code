@@ -1,0 +1,1 @@
+﻿Mala __ukazka__ toho, jak lze prepsat netestovatelny kod na neco, co sice neni idealni, ale da se uz zacit testovat a rozsirovat.
